@@ -1,0 +1,201 @@
+{
+    "en-UK": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#18161A",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#F4F8FA",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#CC3300",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#5D2BBC",
+            "yellow": "#CC3300",
+            "yellow-button": "#5D2BBC",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#18161A",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#18161A",
+            "copyright": "#e7e7d5",
+            "starColor": "#CC3300",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Genting Casino Resorts World Birmingham",
+            "title": "Genting Casino Resorts World Birmingham: slots, roulette, blackjack, Sports Bar and High Line",
+            "description": "A modern casino with live tables and electronic terminals, progressive jackpots, and a higher-limits area. Pair gaming with big-screen sport in the Sports Bar and a late-night lounge vibe at High Line Bar & Lounge. Convenient opening hours, clear entry rules, and a full evening programme for an exciting night out.",
+            "canonical": "resortsbirmingham-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1756",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "resortsbirmingham-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1757",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1758"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1760",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Genting Casino Resorts World Birmingham"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Genting Casino Resorts World Birmingham — games, bars, and entertainment",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1762",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1763",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Progressive slot jackpots running throughout the day.",
+                "Higher table limits, up to £1,000.",
+                "Reward points: 100 points equals £1.",
+                "Extra £10 points for app newcomers.",
+                "40+ e-terminals for fast-paced play.",
+                "No membership needed, quick ID checks.",
+                "Sports Bar with 18 screens, booths."
+            ],
+            "advantagesAfterText": "You can start casually and scale your stakes as your confidence grows. The mix of games, bars, and entertainment makes it easy to plan a complete evening without switching locations.",
+            "knowMore": "Know more",
+            "appTitle": "Casino Resorts World Birmingham App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1764",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Resorts World Birmingham App",
+            "mobileGooglePlayImageTitle": "Casino Resorts World Birmingham App",
+            "mobileIosImageTitle": "Casino Resorts World Birmingham App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Casino Resorts World Birmingham",
+                "description1": "What sets it apart is how seamlessly it blends gaming with a strong bar-and-entertainment line-up. Big-screen live sport and late-night music add a destination vibe rather than a “quick stop” casino feel.\n",
+                "items": [
+                    "Jackpots up to £10,000+.",
+                    "Stakes up to £1,000\/hand.",
+                    "100 points equals £1."
+                ],
+                "description2": "Genting Casino Resorts World Birmingham feels like part of a wider leisure destination where gaming is only one reason to visit. The look and feel is modern and energetic, with a relaxed, night-out atmosphere. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1765",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "The floor layout suits both first-timers and regular players who know what they want. Slots and electronic tables make it easy to find your pace and settle in quickly. Classic table games bring that traditional casino buzz and a more social style of play. The bar spaces give you natural breaks to reset, chat, and keep the evening flowing. Sport fans can follow live broadcasts while still enjoying the gaming environment. Music and evening programming add variety beyond pure gameplay. Entry rules are straightforward for a casino setting, helping the venue feel organised and secure. Overall, it works well for a quick visit or a full night of entertainment."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Genting Casino Resorts World Birmingham: style, atmosphere, and a full night out",
+                "description": "<p>\nGenting Casino Resorts World Birmingham has a distinctly “night-out” personality: modern lighting, a sense of energy, and comfortable areas that make it easy to move between play and downtime. The mood leans more towards experience and style than traditional formality. Even on a first visit, the venue naturally guides your evening—play a little, take a break at the bar, return to the tables, then continue with entertainment. Being set within a wider leisure complex removes the “single-purpose trip” feeling and turns the visit into a complete outing.\n\n<\/p>\n<br>\n\n\n<p>\nOpening hours make planning simple for both daytime and late-night visitors. The casino operates daily from 11:00 to 05:00, with live tables typically available from 14:00, so table-game fans can time their visit well. Inside, you can choose different formats—from fast electronic terminals to live tables where atmosphere and interaction matter. This schedule works equally well for a quick stop after plans or a longer late evening.\n\n<\/p>\n<br>\n<p>\nThe bar offering is a major part of the appeal. The Sports Bar suits anyone who enjoys pairing the buzz of play with live broadcasts: plenty of screens, comfortable seating, and an “in-venue arena” feel. High Line Bar & Lounge brings a more cocktail-and-music angle, perfect for starting the night, pausing between sessions, or winding down at the end. Together, the bars feel integral to the experience rather than an add-on.\n\n<\/p>\n<br>\n<p>\nThe on-site hotel element adds to the destination vibe. With the Genting Hotel within the same complex, many guests plan a visit without worrying about the journey home—stay longer, enjoy dinner, and return for another session. This format is especially convenient for couples, groups, and visitors attending nearby events who want to combine entertainment, comfort, and gaming in one route. The surrounding complex also offers extra activities, keeping the evening varied beyond the casino floor.\n\n<\/p>\n<br>\n<p>\nEvents and “what’s on” programming deepen the atmosphere. Across the casino and its bar spaces, themed nights, live music, and food-and-drink offers help each visit feel less predictable. Newer players benefit from learning-style formats and casino masterclasses that make the first experience more approachable. Regulars often appreciate private areas and a higher level of service that shows in the details of the night.\n\n<\/p>\n<br>\n<p>\nReward incentives connect to My Genting Rewards and the app, yet you can still walk in as a guest and simply play. If you do enrol, the benefits become clear: points you can spend on gaming and refreshments, tailored offers, and added perks that encourage repeat visits. In the end, Genting Casino Resorts World Birmingham feels like a casino at the centre of a broader night out—games, food, music, and comfort working together.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService, payments, and collecting winnings: what to expect\n<\/h3>\n\n<p>\nStaff at Genting Casino Resorts World Birmingham typically operate with a “hospitality plus safety” approach: you’re welcomed, guided quickly, and helped with basic questions when needed. At desks and tables, the team can assist with seating, general game guidance, rewards registration, and how points are tracked. In the bar areas, service feels more lounge-like, encouraging you to relax and take breaks between sessions. At the same time, you’ll notice a clear focus on order and security, which helps the venue feel comfortable—especially later in the evening.\n\n<\/p>\n<br>\n\n\n<p>\nEnglish is the main language used on the floor, yet teams in busy leisure destinations are usually accustomed to guests from many backgrounds and keep explanations clear and simple. Even if you’re not confident with casino terminology, table games are easy to follow because the process is visual and dealers use short, standard phrases. For more complex queries, you’re typically directed to reception or a duty manager who can explain details properly. The overall goal is to reduce friction so you can enjoy the experience rather than feel overwhelmed.\n\n<\/p>\n<br>\n<p>\nFor a land-based casino, the core gaming currency is pounds sterling, so it’s best to plan your bankroll and stakes in that currency. Cards are commonly used for bar tabs and general venue spending, while gaming itself often relies on cash or specific in-venue top-up methods depending on the area. Practicalities can vary: some guests prefer to buy chips at the cashier, while others gravitate to electronic terminals for a faster, more contained session. If you don’t want to carry larger sums, a sensible approach is topping up in smaller amounts with a clear nightly limit.\n\n<\/p>\n<br>\n<p>\nATMs and service points are commonly available in large leisure complexes, making it convenient to withdraw cash for play or settle expenses during the night. If you need currency exchange, it’s wise to assume availability and rates may be limited on-site, so arriving with the preferred currency is often smoother. A bank card with fair FX terms can also help, as long as you understand fees and conversion rules. When in doubt, a quick check at the cashier or reception avoids surprises.\n\n<\/p>\n<br>\n<p>\nCollecting winnings in a physical casino is usually handled at the cashier. Smaller amounts are often paid out in cash, while larger payouts may involve additional identity checks and potentially an alternative settlement method. Having valid photo ID is important, as verification is standard practice for security and compliance. If you’ve played on electronic terminals or used an internal balance, the process can include closing the session and confirming results with a staff member. Keeping receipts and confirmations is a smart habit, particularly for larger transactions.\n\n<\/p>\n<br>\n<p>\nOn taxation, many visitors treat the topic as straightforward, yet individual circumstances can differ. As general guidance, players typically do not handle a separate “casino winnings tax” in the same way they would with employment income, but personal status and residency can affect broader obligations. If you’re unsure, consider this an overview and seek professional advice for your specific case. Practically, record significant payouts, keep documentation, and be mindful of bank requirements if transferring funds to an account.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting rules at Genting Casino Resorts World Birmingham: entry, dress code, and getting there\n<\/h3>\n\n<p>\nA casino visit starts with age checks and basic security rules, so it’s important to carry valid photo ID. Entry is for adults only, and if you look younger, you may be asked for additional proof of age. The general dress expectation is smart casual—neat, presentable clothing rather than sporty or overly casual outfits. Inside, guests are usually asked to remove hats to ensure clear visibility on CCTV. Calm, respectful behaviour matters, particularly around live tables where other players need space and focus. Photo and video recording can be restricted to protect privacy, so it’s best to check the rules before filming anything. Some areas may apply additional guidance about drinks near tables. If you want live table action, remember it may begin later than the overall opening time. For a smoother night, set a budget in advance so decisions don’t become emotional. Getting there is straightforward by car or public transport, and casino guests typically benefit from parking ticket validation.\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey entry and conduct requirements\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge & ID: bring a passport or driving licence; checks are more frequent if you look young.\n\n<\/li>\n            <li>• \nVisit type: you can enter as a guest without mandatory membership.\n\n<\/li>\n            <li>• \nSecurity: staff and security oversee the floor; escalations go to the duty manager.\n\n<\/li>\n            <li>• \nPrivacy: respect other guests; don’t film people without consent.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDress code and restrictions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRecommended: neat smart casual, clean footwear, well-presented appearance.\n\n<\/li>\n            <li>• \nNot permitted\/avoided: sportswear, tracksuit bottoms, sleeveless vests, football shirts, work uniforms.\n\n<\/li>\n            <li>• \nHats\/caps: typically removed inside due to CCTV visibility rules.\n\n<\/li>\n            <li>• \nAlcohol & behaviour: excessive intoxication or aggression can result in refused entry or removal.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParking and how to get there\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBy car: easy access via main routes; follow signs for Resorts World Birmingham.\n\n<\/li>\n            <li>• \nParking: casino guests often use ticket validation at entrances or desks.\n\n<\/li>\n            <li>• \nTrain\/public transport: Birmingham International is the main nearby hub, with clear pedestrian routes to the complex.\n\n<\/li>\n            <li>• \nTaxi\/ride-hail: convenient drop-off points help, especially later at night.\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMy Genting Rewards at Genting Casino Resorts World Birmingham: tiers, points, and perks\n<\/h3>\n\n<p>\nMy Genting Rewards is a loyalty programme designed to make each visit more valuable by turning play and engagement into tangible benefits. The core appeal is practical: you earn points and can use them towards gaming and food-and-drink spend, which keeps the system easy to understand. It works for occasional visitors who want simple perks as well as regular players aiming for stronger privileges. You can begin at an entry level without complicated steps, while higher statuses tend to be invite-based. The My Genting app adds convenience by tracking offers, showing balances, and introducing challenges that help you collect extra points. Because the points system is expressed in a clear conversion model, it’s easier to judge value before you even arrive.\n\n<\/p>\n<br>\n\n\n<p>\nDay-to-day, the programme improves comfort as much as it boosts rewards: drink discounts, personalised offers, and app-based extras can all add up across an evening. App “badges and challenges” bring a gamified layer on top of the casino experience, encouraging repeat visits and variety. Availability and terms of specific perks can vary by tier and may be time-limited, so checking the current offers in advance is a smart habit. The most effective approach is to activate the programme early, then plan your visit around the offers that are live at that moment.\n\n<\/p>\n<br>\n<p>\nThe programme is structured into “schemes” (tiers), with a base tier accessible to everyone and higher tiers typically granted by invitation. That creates a club-like feel: the more consistent and active your play, the more meaningful the benefits become. On-site, this shows not only through discounts but also through clearer visibility of tailored promotions and better control of your reward balance. The digital setup is a big plus—everything stays in one place through the app, reducing hassle and missed opportunities.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n<\/h4>\n\n <ul>\n            <li>• \nWho can join: adult guests with valid ID proving identity and age.\n\n<\/li>\n            <li>• \nHow to sign up: at the casino desk or via the app (where available), linking your profile.\n\n<\/li>\n            <li>• \nWhat you’ll need: basic details and agreement to programme rules; opting into communications often unlocks more offers.\n\n<\/li>\n            <li>• \nCost: entry-level enrolment is typically free.\n\n<\/li>\n\t    <li>• \nPoints validity: points commonly expire if unused, often within 12 months of being earned.\n\n<\/li>\n\t    <li>• \nHow you earn: through slots, e-tables, live table play, and app activities.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMy Genting Rewards tiers and how they’re achieved\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRED (entry tier): available immediately after joining; baseline discounts and points earning.\n\n<\/li>\n            <li>• \nBRONZE: usually invitation-based after consistent activity and points accumulation.\n\n<\/li>\n            <li>• \nSILVER: higher invite tier; tends to come with stronger personalised offers.\n\n<\/li>\n            <li>• \nGOLD: aimed at frequent visitors; often unlocks the best-value promotions.\n\n<\/li>\n\t    <li>• \nDIAMOND: premium tier with the most meaningful privileges within the scheme.\n\n<\/li>\n\t    <li>• \nPLATINUM: top invite tier for the most active players.\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBenefits and bonuses\n<\/h4>\n\n <ul>\n            <li>• \n10% off drinks: a straightforward saving throughout the night.\n\n<\/li>\n            <li>• \nPotential 25% off drinks: typically associated with higher tiers, making bar spend notably cheaper.\n\n<\/li>\n            <li>• \nPoints for play: a clear value model—every 100 points equals £1 to spend within the casino.\n\n<\/li>\n            <li>• \n£10 in points via the app: a one-time welcome boost for first-time app users (commonly limited to once per person).\n\n<\/li>\n\t    <li>• \nIn-app badges & challenges: extra points for completing tasks, including visit-based challenges.\n\n<\/li>\n\t    <li>• \nBalance and offer tracking: see live promotions, point totals, and activity in one place.\n\n<\/li>\n\t    <li>• \nExclusive offers: targeted promotions and invitations that vary by tier and timing.\n\n<\/li>\n\t    <li>• \nComplimentary soft drinks while gaming: tea\/coffee\/soft drinks may be available at certain tiers under specific conditions.\n\n\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Genting Casino Resorts World Birmingham",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses, jackpots, and special offers\n<\/h3>\n\n<p>\nAt Genting Casino Resorts World Birmingham, the value of a visit is often boosted not only by loyalty points but also by standalone promotions that feel immediate and practical. The most eye-catching element is progressive slot jackpots, where changing jackpot totals can make certain machines more attractive during the night. For fast, controlled sessions, electronic terminals and e-tables are a strong option, as they make it easier to manage pace and stake size. Live tables add a more social and atmospheric layer where limits, dealer interaction, and table energy shape the experience.\n\n<\/p>\n<br>\n\n\n<p>\nA key theme is the “play + bar + event” combination. Many guests come for more than just winning potential—they want a full evening: live sport, cocktail offers, music-led nights, and themed promotions. These deals matter because they can add value even on nights when you’re not chasing maximum risk. The advantage is clarity: fixed prices, “2-for-1” formats, or set meal-and-drink bundles that are easy to plan around.\n\n<\/p>\n<br>\n<p>\nYou may also see learning-oriented activities and casino masterclasses that help newcomers feel more confident at the tables. More experienced visitors often enjoy prize draws, themed promotions, and spotlight periods where certain games or machines become the focus. It’s worth noting that offers can shift by day of week and season; holiday periods and major sporting calendars often bring more themed programming. The best approach is to plan your visit around the kind of night you want—big sport, music vibes, or a pure gaming session.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nExamples of bonuses, winnings, and special offers\n<\/h4>\n\n <ul>\n            <li>• \nProgressive slot jackpots (up to £10,000+): a chance at a major hit on selected machines; jackpots build until won.\n\n<\/li>\n            <li>• \nHigher table limits (up to £1,000\/hand): designed for bigger-stake play and a premium table feel.\n\n<\/li>\n            <li>• \n40+ e-gaming terminals: quick sessions with strong control over pace and stake size.\n\n<\/li>\n            <li>• \n2-for-1 cocktails (e.g., Martini Mondays): strong bar value for pairs or groups.\n\n<\/li>\n\t    <li>• \nSet “main + cocktail” deal (example: £16): an easy dinner option with predictable cost.\n\n<\/li>\n\t    <li>• \nFixed-price sparkling bottle offer (example: £20): popular for celebrations and group nights.\n\n<\/li>\n\t    <li>• \nLive music nights (several times weekly): adds a club-like mood between gaming sessions.\n\n<\/li>\n\t    <li>• \nMulti-screen live sport: watch major matches while keeping the casino energy.\n\n<\/li>\n\t    <li>• \nCasino masterclasses: learn rules and table etiquette to play with confidence.\n\n<\/li>\n\t    <li>• \nSeasonal events and themed nights: holiday specials, weekend programmes, and calendar-led entertainment.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games at Genting Casino Resorts World Birmingham: classic tables and e-play\n<\/h3>\n\n<p>\nThe game selection is shaped to fit different play styles: some guests want fast slot sessions, others prefer the steady strategy of blackjack, and many enjoy the spectacle of roulette. Slots appeal through variety and the excitement of progressive jackpots, where one strong spin can transform the night. Electronic tables and terminals suit players who prefer a consistent pace, clear interfaces, and less social pressure. Live tables are about atmosphere—chips, dealers, interaction, and the feeling of a true casino floor.\n\n<\/p>\n<br>\n\n\n<p>\nRoulette is often chosen for its easy entry point and emotional momentum: you grasp the basics quickly and can deepen play with outside, sector, and combination bets. Blackjack is popular because it blends luck with decision-making, letting confident players feel more in control. Baccarat offers a calmer, more refined rhythm with a straightforward betting structure. 3-Card Poker stands out for pace and accessibility, making it ideal for lively evenings. Ultimate Texas Hold’em bridges poker flavour with a dealer-run casino format—structured, social, and engaging.\n\n<\/p>\n<br>\n<p>\nA big advantage is how easily you can switch formats in one place: start on slots, move to e-terminals, then finish on a live table. That flexibility suits visitors who don’t want a single-track session. A higher-limits area also adds an option for those who prefer bigger stakes and a more private feel. Overall, the games function like a build-your-own evening—pace, risk, and atmosphere tailored to your mood.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGames at a glance\n<\/h4>\n\n <ul>\n            <li>• \nSlots: a broad selection, including progressive jackpots; ideal for quick, high-energy sessions.\n\n<\/li>\n            <li>• \nAmerican Roulette: classic, social, and easy to learn; great for both new and experienced players.\n\n<\/li>\n            <li>• \nBlackjack: luck plus decisions; favoured by players who enjoy strategy.\n\n<\/li>\n            <li>• \nBaccarat: calm rhythm and simple bets; appreciated for its clean mechanics.\n\n<\/li>\n\t    <li>• \n3-Card Poker: fast rounds and straightforward rules; keeps the evening moving.\n\n<\/li>\n\t    <li>• \nUltimate Texas Hold’em: poker-inspired casino table format; strong for combo-lovers.\n\n<\/li>\n\t    <li>• \nE-tables \/ e-gaming terminals: electronic versions for speed, comfort, and pace control.\n\n<\/li>\n\t    <li>• \nHigh Stakes Area: higher limits and a more private, premium atmosphere.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetting at Genting Casino Resorts World Birmingham: typical min\/max ranges\n<\/h3>\n\n<p> \nBet ranges in a venue like this are usually designed to fit everyone—from casual players to higher-stake guests. Slots and electronic terminals make bankroll control straightforward because stakes adjust quickly and clearly. On live tables, minimums and maximums often depend on the specific table, the time of day, and how busy the floor is. In higher-limits areas, the top end can rise well beyond standard tables. Below are indicative ranges to help you sense the typical order of value before you visit (actual limits can vary).\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#CC3300; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.01–£0.20 per spin<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£2–£10+ per spin <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic roulette \/ e‑tables<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.20–£1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£50–£100<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">American roulette (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£2–£5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£500–£1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£500–£1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£500–£1,000<\/td>\n                <\/tr>\n\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">3-Card Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£200–£1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold’em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£200–£1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">High Stakes Area (selected)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£25–£100<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£1,000+<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntertainment and events at Genting Casino Resorts World Birmingham: music, sport, and late-night energy\n<\/h3>\n\n<p>\nThe entertainment offering feels like a genuine night programme rather than a small add-on to gaming. A major strength is the way casino play blends with bar-led experiences, giving you natural breaks without losing the evening’s momentum. For many guests, live sport is the headline attraction: big broadcasts create an event atmosphere with shared emotion, conversation, and match-day buzz. Against that backdrop, gaming sessions feel more dynamic because the night isn’t only about the tables—it’s a full experience.\n\n<\/p>\n<br>\n\n\n<p>\nHigh Line Bar & Lounge adds a strong music layer. Live music and evening performances turn breaks between slots and tables into something you actually look forward to, not just a reset. This matters for groups, because you can shift focus—chat, enjoy cocktails, and soak up the late-night mood. Depending on the day, the vibe can range from chilled lounge to a more packed programme where music becomes the centrepiece. If you enjoy venues that hold energy deep into the night, High Line often becomes the natural finishing point.\n\n<\/p>\n<br>\n<p>\nThe Sports Bar offers a separate entertainment track: multiple screens, comfortable group seating, and a “mini stadium” feel inside the complex. On major match days, it becomes a focal point and many guests plan visits around the sports calendar. The big advantage is convenience—watch, play, return to the broadcast, repeat—without moving to another venue.\n\n<\/p>\n<br>\n<p>\nBeyond bars and sport, you’ll often find themed nights, live-music programming, food-and-drink specials, and learning-style formats for newer players. This creates a sense that each night has its own flavour. For guests who like planning, these events are a great reason to choose a specific day and match the visit to the vibe you want.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll entertainment options\n<\/h4>\n\n <ul>\n            <li>• \nHigh Line Bar & Lounge: cocktails, evening programming, live music, and a relaxed late-night vibe.\n\n<\/li>\n            <li>• \nSports Bar: multi-screen live sport, group-friendly seating, match-day atmosphere.\n\n<\/li>\n            <li>• \nLive music nights: regular music-led evenings that elevate breaks between sessions.\n\n<\/li>\n            <li>• \nDrink-led promotions: “2-for-1”, fixed-price offers, and evening specials.\n\n<\/li>\n\t    <li>• \nBig-match nights: heightened buzz and event energy around major broadcasts.\n\n<\/li>\n\t    <li>• \nCasino masterclasses: learning sessions to build confidence at the tables.\n\n<\/li>\n\t    <li>• \nPrivate spaces \/ hire options: scope for celebrations or meetings in dedicated areas (subject to booking).\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, dining, and downtime: how to enjoy a comfortable night\n<\/h3>\n\n<p>\nRelaxation at Genting Casino Resorts World Birmingham follows a simple idea: gaming should naturally alternate with comfortable breaks. That’s why the bars feel central rather than secondary. The Sports Bar is ideal if you like energy and shared emotion—you can follow a match, talk through the big moments, and still stay within the casino-night atmosphere. It’s especially convenient for groups who want gaming, conversation, and a live sports backdrop without switching venues.\n\n<\/p>\n<br>\n\n\n<p>\nHigh Line Bar & Lounge offers a different style of downtime—more cocktail-led, music-driven, and distinctly evening-focused. It’s an easy meeting point, a natural break between sessions, and a strong way to continue the night at a relaxed pace. When live music is on, the space feels like a true lounge destination where you can enjoy the experience even without playing. For couples, it often becomes the perfect rhythm: a little gaming, cocktails and music, then back to the floor if you feel like it.\n\n<\/p>\n<br>\n<p>\nIf you want to stay longer and keep things calm, the complex format helps. With the Genting Hotel on-site, you can turn the night into a mini break without worrying about the journey home. That reduces pressure, especially if you enjoy late finishes. The surrounding complex also supports the evening with plenty of food options, so you can shape dining around your own pace rather than relying on one menu style.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll relaxation spots\n<\/h4>\n\n <ul>\n            <li>• \nSports Bar: multi-screen sport, group-friendly seating, food and drinks built for match nights.\n\n<\/li>\n            <li>• \nHigh Line Bar & Lounge: cocktails, live music, and a lounge vibe to extend the night.\n\n<\/li>\n            <li>• \nGenting Hotel (on-site): a convenient stay option to avoid rushing and keep the night going.\n\n<\/li>\n            <li>• \nComplex restaurants and food outlets: broad choice for dinner before play or a late bite afterwards.\n\n<\/li>\n\n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What ID is accepted for entry and checks?",
+                    "answer": "Valid photo ID proving age and identity is typically required; a passport or driving licence is the most convenient option.\n\n\n"
+                },
+                {
+                    "title": "Can I play if I’m a complete beginner?",
+                    "answer": "Yes. Many guests start on slots or e-terminals, then move to live tables. Learning-style sessions or masterclasses can help where available.\n\n\n"
+                },
+                {
+                    "title": "Are there limits on how much money I can bring in?",
+                    "answer": "There may not be a single rule for everyone, but larger transactions can trigger questions or extra checks for security.\n\n\n"
+                },
+                {
+                    "title": "How can I keep my play responsible and controlled?",
+                    "answer": "Set a budget and time limit in advance, take breaks, and use self-control tools. If needed, ask staff for responsible play support information.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1767",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Genting Casino Resorts World Birmingham"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-UK",
+            "name": "Английский",
+            "isDefault": true
+        }
+    ]
+}
